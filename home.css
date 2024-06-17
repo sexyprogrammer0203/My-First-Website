@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+.google-font {
+    font-family:"Playwrite FR Moderne", cursive;
+
+    background-image: ('https://www.google.com/imgres?q=pastel%20gradient%20background%20free&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fgradient-grainy-texture_23-2148980662.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpastel-gradient&docid=eZsRIHk3jROdnM&tbnid=WAiXUmcmp4kO9M&vet=12ahUKEwjH0vW7nuCGAxUGs1YBHRL0BucQM3oECBQQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwjH0vW7nuCGAxUGs1YBHRL0BucQM3oECBQQAA');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align:center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(128, 128, 128);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+
+}
+.navbar a:hover{
+    background-color: blue;
+}
+.navbar li{
+    float: left;
+}
